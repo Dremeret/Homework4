@@ -77,23 +77,38 @@ img{
 }
 
 button{
-margin-left: auto;
-margin-right: auto;
-margin-top: 114px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 114px;
 width: 165px;
 height: 60px;
 border: 1px solid #626262;
-display: block
+display: block;
+font-family: 'Playfair Display';
+
+}
+ .LIVESTYLE{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    background-color: #B4AD9E;
+ }
+
+p{
+    font-family: 'Ubuntu';
+    color: #B4AD9E;
 }
 
-.main-button{
+h3{
     font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
 }
-
-
-
-
-
 
 
 
